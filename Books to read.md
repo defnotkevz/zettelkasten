@@ -1,0 +1,12 @@
+- Grrokking algorithms - Aditya Y bhargava
+- Refactoring - Martin Fowler
+- Clean code - robert c martin
+- Understanding Distributed Systems - Roberto vitillio
+- Desigining data intensive applications - martin klepmann
+- signal and the noise - nate silver
+- hundred page machine learning book - andriy burkov
+- [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
+- designing ml systems - chip huyen
+- engineering management for the rest of us - sarah drasner
+- sftwr arch : the hard parts
+- se at google

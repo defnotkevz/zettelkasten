@@ -1,0 +1,1 @@
+- If you had all the money in the world. would you work? would you create? that’s why you are not where you wanna be.
