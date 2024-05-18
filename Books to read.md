@@ -10,3 +10,9 @@
 - engineering management for the rest of us - sarah drasner
 - sftwr arch : the hard parts
 - se at google
+
+
+Psychology of Money
+Sapiens
+Zero to One
+
