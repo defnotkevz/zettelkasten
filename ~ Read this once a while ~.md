@@ -17,8 +17,7 @@
 - It’s never too late to do something. **never.**
 - have gratitude for your talents
 - money is like flow of energy. that doesn’t mean you have to spend them, but never hoard them also.
-- you dont get what you deserve, **you get what you think you deserve.**
-- consistency is the playground of dull minds
+- you don't get what you deserve, **you get what you think you deserve.**
 - If you’re not horny, you’re not healthy.
 - Your destiny is changing with every small action you take.
 - you react to every situation using your weapon to your best ability, but if that doesn’t work out, then you have to try new things and evolve.
@@ -32,4 +31,4 @@
 - You’ll never know when you’re ready. It’s a leap of faith.
 - The aim is to not be the best. It is to be the ONLY.
 - He who cannot obey himself will be commanded.
-- BE INTENTIONAL. DONT LET THINGS HAPPEN.\
+- BE INTENTIONAL. DONT LET THINGS HAPPEN.
