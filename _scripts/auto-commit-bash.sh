@@ -1,6 +1,6 @@
 #!/bin/bash
 
-repo_path="~/personal/zettelkasten"
+repo_path="/home/kevz/personal/zettelkasten/"
 
 cd "$repo_path" || exit
 

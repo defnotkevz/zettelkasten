@@ -2,7 +2,7 @@
 - i dont want to impress people by doing things which i cant afford to.
 - punch below your weight.
 - anything in life can be a distraction
-- slowly is the fastest way to reach somewhere
+- slowly is the fastest way to reach somewhere!
 - discomfort slows time
 - play the waiting game.
 - show up to practice. #24
