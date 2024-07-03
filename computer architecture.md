@@ -29,8 +29,17 @@ this evolves into the ALU. It can perform addition and subtraction.
 
 a computer should be able to **process**, **store** and **retrieve** data.
 
+## How do computers remember information?
 
-to store a single bit, you have to build a latch. evolves to registers. 
+SR (set - reset) latch.
+D (data) latch.
+
+These latches evolve to a Register. To store a single bit, a latch is enough, but for multiple bits, you stack latches together to create a Register.
+
+
+
+
+
 8 bit registers?
 using many registers, we can store programs. 
 
