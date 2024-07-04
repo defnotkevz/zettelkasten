@@ -28,6 +28,8 @@ why trackers use udp?
 Data is split into smaller pieces which sent between peers using the bittorrent protocol. These pieces are of a fixed size, which enables the tracker to keep tabs on who has which pieces of data. This also breaks the file into verifiable pieces, each piece can then be assigned a hash code, which can be checked by the downloader for data integrity. The size of the pieces remains constant throughout all files in the torrent except for the final piece which is irregular. The most common piece sizes are 256kb, 512kb and 1mb.
 
 
+Actual files are sent using tcp. but messages to the tracker, uses udp. In the case of upd, if the data being sent is small enough (less than 512 bytes) you don’t have to worry about receiving only part of the data or receiving data out of order.
+
 ## Glossary
 
 - **Leechers**: Leechers are users who are in the process of downloading the file. They download pieces of the file from seeders and other leechers. Leechers also upload pieces of the file to other users while downloading. Once a leecher has completed downloading the entire file, they become a seeder.
