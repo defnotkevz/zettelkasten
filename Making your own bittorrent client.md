@@ -4,9 +4,17 @@ You send a request to a tracker. And the tracker responds with a list of peers. 
 **Bencoding** is an encoding that translates a complex set of embedded dictionaries, lists, strings, and integers into a single string.
 
 
-The .torrent file contains metadata. We need to decode it and save it. 
-- The announce url
-- 'info' dictionary
+The .torrent file contains metadata. We need to decode it and save it.
+- **info**: A dictionary which describes the file(s) of the torrent. Either for the single file, or the directory structure for more files. Hashes for every data piece, in SHA 1 format are stored here.
+- **announce**: The announce URL of the tracker as a string
+
+Bencoding Structure:
+
+    Byte Strings : <string length in base ten ASCII> : <string data>
+    Integers: i<base ten ASCII>e
+    Lists: l<bencoded values>e
+    Dictionaries: d<bencoded string><bencoded element>e
+
 
 single file torrents and multiple file torrents have different file structures.
 
@@ -15,6 +23,9 @@ The announce key at the start of a torrent file gives you the url of the tracker
 
 why trackers use udp?
 - UDP is often a good choice for trackers because they send small messages, and we use TCP for when we actually transfer files between peers because those files tend to be larger and must arrive intact.
+
+
+Data is split into smaller pieces which sent between peers using the bittorrent protocol. These pieces are of a fixed size, which enables the tracker to keep tabs on who has which pieces of data. This also breaks the file into verifiable pieces, each piece can then be assigned a hash code, which can be checked by the downloader for data integrity. The size of the pieces remains constant throughout all files in the torrent except for the final piece which is irregular. The most common piece sizes are 256kb, 512kb and 1mb.
 
 
 ## Glossary
