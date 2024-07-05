@@ -36,5 +36,4 @@ Actual files are sent using tcp. but messages to the tracker, uses udp. In the c
 
 - **Swarm**: The swarm are all seeds and peers that are connected together. So if your client shows 5 seeds and 10 peers then that’s your swarm. 
 
-- **Health**: the better the ratio (i.e. the number of seeders : leechers) – the healthier a torrent is. 
-
+- **Health**: the better the ratio (i.e. the number of seeders : leechers) – the healthier a torrent is.
