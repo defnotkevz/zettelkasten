@@ -1,0 +1,1 @@
+I was born right into the cusp of our technological adoption. even when i look back at my life, i cleary see my life divided into pre and post techonological phases. and i am blessed to have the former one. This information over-abundance was (and still is not!) something I was ready for. don't get em wrong, i love tech and my entire livelihood is 
