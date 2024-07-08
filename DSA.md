@@ -1,18 +1,3 @@
-how does the runtime of this function grow with respective to growing input? - time complexity
-
-Best to worst :
-1. Constant - O(1)
-2. Logarithmic - O(log N)
-3. Linear - O(N)
-4. Linearithmic - O(N log N)
-5. Polynomial - O(n^2), O(n^3) etc
-6. Exponential - O(2^n), O(3^n)
-
-ADT
-
-- data types, but higher level. stacks, queues etc
-
-
 
 Queue - implemented in circular fashion to not let it drift right.
 
@@ -75,7 +60,3 @@ Dequeue
 
 String matching
 Bit manipulation
-
-
-
-## Graph Theory

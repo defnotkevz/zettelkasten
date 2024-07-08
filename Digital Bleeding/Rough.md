@@ -1,10 +1,3 @@
-iniesta
-bellingham
-isco
-ozil
-
-why is that *only* js landscape is changing so fast
-
 static vs dynamic typed?
 strongly vs weakly typed?
 paradigm?

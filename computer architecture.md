@@ -1,3 +1,6 @@
+your computers are just a big electric circuit. trying to understand the complex architecture of a modern computer is like trying to understand a person you just met today. you can understand your friends or siblings better because you have seen their evolution and every step they've taken. even the computer we know as of today was the product of decisions we took over an extended period of time. so we go back to the basics.
+
+
 
 transistors control the flow of electricity. like a better switch. it's a SC device to amplify or switch current.
 

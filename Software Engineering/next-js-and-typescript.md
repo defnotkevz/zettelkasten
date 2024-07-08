@@ -1,5 +1,3 @@
-# Next Js and TypeScript
-
 - how you can type your props
 
 ```typescript
