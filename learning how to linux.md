@@ -16,3 +16,5 @@ vmstat
 
 - ip a OR ip addr
 - ethtool
+
+pkill gnome-terminal
