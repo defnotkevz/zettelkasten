@@ -32,3 +32,12 @@
 - The aim is to not be the best. It is to be the ONLY.
 - He who cannot obey himself will be commanded.
 - BE INTENTIONAL. DONT LET THINGS HAPPEN.
+- Praying to God is like having a phone conversation, but two people are on the end of the other line.
+- it’s a tragedy, what a man does for his loved ones, keeps him apart.
+
+Be HUMBLE. You're just at level zero.
+Be HUNGRY. Your untapped potential awaits you.
+GOD. Isaiah 49:16.
+CONSISTENCY. The difference between the successful and the unsuccessful.
+FUNDAMENTALS. You have to do the dirty work before you are worthy of higher things in life.
+SACRIFICE. Otherwise what you want will become the sacrifice.

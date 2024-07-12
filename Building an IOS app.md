@@ -1,4 +1,0 @@
-
-Swift
-Swift UI
-SQLite
