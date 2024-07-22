@@ -18,3 +18,6 @@ vmstat
 - ethtool
 
 pkill gnome-terminal
+
+
+to delete all files and folders including hidden ones -> rm -rf ./{*,.*}
