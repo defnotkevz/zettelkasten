@@ -9,7 +9,9 @@
 - designing ml systems - chip huyen
 - engineering management for the rest of us - sarah drasner
 - sftwr arch : the hard parts
-- se at google
+- Software Engineering at Google: Lessons Learned from Programming Over Time
+- The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition
+- Learning JavaScript Design Patterns: A JavaScript and React Developer's Guide
 
 
 Psychology of Money
