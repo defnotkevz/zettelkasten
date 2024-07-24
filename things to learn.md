@@ -1,6 +1,10 @@
 
-1. tailwind theme
-2. safelist
-3. tailwind plugins
-4. jotai
-5. husky
+
+
+building typesafe APIs with tRPC
+
+tRPC - Typesafe Remote Procedure Calls
+
+API Routes - do we use interfaces with API Routes?
+
+trpc allows us to build fully typesafe APIs without any schema or code generation.
