@@ -13,6 +13,8 @@
 
 prisma and Supabase
 
+prisma client is the code that we use to interact with the users. 
+
 we will use prisma to seed the database
 supabase is run as a container -> might be for a local db
 

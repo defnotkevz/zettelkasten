@@ -1,6 +1,4 @@
 
-
-
 tRPC is a way to build APIs like REST or GraphQL.
 
 tRPC gives typesafety when building APIs. So the frontend and backend is tightly coupled. It also has a request batching feature, while making mutiple requests.
@@ -19,7 +17,7 @@ API Routes - do we use interfaces with API Routes?
 ```
 
 public procedure
-protected procedure
+protected procedure - can be only used by users who are "allowed".
 
 
 
@@ -49,8 +47,4 @@ tRPC is an implementation of RPC, designed for TS monorepos.
 
 trpc client and server
 - the client is used in the frontend to interact with the trpc server. allows you to make API requests and handle responses using type-safe methods.
-- the tRPC server is where you define the API routes, procedures and logic. It processes the incoming requests and sends back responses. 
-
-
-
-
+- the tRPC server is where you define the API routes, procedures and logic. It processes the incoming requests and sends back responses.
