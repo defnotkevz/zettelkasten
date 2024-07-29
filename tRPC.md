@@ -1,7 +1,5 @@
 
-```
-API Routes - do we use interfaces with API Routes?
-```
+
 
 tRPC is a way to build APIs like REST or GraphQL.
 
@@ -13,9 +11,12 @@ tRPC is set upt with routes and procedures.
 routes are the folder names and procedures are the filenames.
 
 ```
-tRPC uses React Query under the hood?
+tRPC uses React Query under the hood.
 ```
 
+```
+API Routes - do we use interfaces with API Routes?
+```
 
 public procedure
 protected procedure
@@ -44,4 +45,12 @@ tRPC is an implementation of RPC, designed for TS monorepos.
 - **Context** - Stuff that every procedure can access. Commonly used for session state and database connections.
 - **Middleware** - a function that can run code before and after a procedure. Can modify context.
 - **Validation** - "Does this input data contain the right stuff?"
+
+
+trpc client and server
+- the client is used in the frontend to interact with the trpc server. allows you to make API requests and handle responses using type-safe methods.
+- the tRPC server is where you define the API routes, procedures and logic. It processes the incoming requests and sends back responses. 
+
+
+
 
