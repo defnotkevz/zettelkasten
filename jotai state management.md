@@ -1,6 +1,7 @@
 
 - `atom` - An atom is the basic unit of state in jotai, like a country, number, can be an array or an array of objects.
 
+
 ```javascript
 import { atom } from 'jotai'
 
