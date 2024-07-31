@@ -1,1 +1,0 @@
-you cannot just focus on one thing. you have to be a deep generalist like in the renaissance. the return of the renaissance man. but you can do only one thing at a time. so we need to get good at context switching. just like how computers do.
