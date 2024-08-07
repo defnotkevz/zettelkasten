@@ -6,7 +6,12 @@
 
 
 
+tampermonkey
 
+the tech stacks of smaller companies and projects can and should be minimized not only to match the scale of their needs but to the abilities of the developers on the team as well.
+
+we dont't have the same needs as a giant enterprise
+and users don't care what stack we use. in the end, all that matters is the end user experience.
 
 
 
