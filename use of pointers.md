@@ -1,5 +1,3 @@
-# use of pointers
-
 only stack memory (data inside) can be accessed directly by a program. any other locations are indirectly accessed.
 
 1. accessing the heap
