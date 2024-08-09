@@ -18,3 +18,10 @@ compute
 2 laptops - one powerful and one not so much
 
 windows? or fully linux?
+
+
+
+learn linux
+home server (personal cloud), media server
+
+
