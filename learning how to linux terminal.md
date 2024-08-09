@@ -47,3 +47,34 @@ cat split-me.txt | tr ";" "\n"
 Basic redirection to log apps 
 
 ./your_app > /tmp/your_app.log 2>&1 &
+
+ >> -> means you append instead of overriding 
+
+install 'tldr' for a better 'man'
+
+ls -latrh
+
+ln -s -> soft symlink
+ln -> hardlink
+
+grep is pattern matching for text content
+ripgrep
+
+find - for files and dirs
+sed - stream editor - lets you make changes to incoming stream of text - to replace content
+
+awk - programming language for wokring with files
+
+
+tail -f 'any log file' -> continuously updates the appended lines to the screen
+
+xargs - will take any content that is piped and splits into chunks and passes it as a list of arguments to the function you specify.
+```ls | xargs du -sh```
+
+so $() -> is a subshell, you can run any command and that will be injected back into the main shell
+
+fzf - fuzzy finder
+
+
+
+compgen -c  | fzf | xargs man -> to fuzzy find any system commands 

@@ -2,6 +2,7 @@
 like a VM. but better. More accurately, containers are OS-level virtualization.
 It is an isolated OS process.
 The resulting difference between VMs and containers is that there is hardly any overhead when running containers; they only need to run a single process.
+Uses the same kernel for every container, making it lightweight.
 Quick to scale because they are lightweight.
 
 
