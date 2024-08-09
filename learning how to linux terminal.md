@@ -78,3 +78,9 @@ fzf - fuzzy finder
 
 
 compgen -c  | fzf | xargs man -> to fuzzy find any system commands 
+
+du -ah . | sort -hr | head -n 10
+
+ctrl + L
+ctrl + A, ctrl + E front of line, eol
+ctrl + F, ctrl + B. forward & backward one char

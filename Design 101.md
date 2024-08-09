@@ -1,8 +1,8 @@
 
 the best designs are 
 
-- useful
-- usable
+- useful.
+- usable.
 - beautiful.
 
 should solve a problem or meet a need.
