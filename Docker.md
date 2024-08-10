@@ -1,5 +1,15 @@
+### intro on virtualization
 
-like a VM. but better. More accurately, containers are OS-level virtualization.
+Virtualization as “the simulation of the software and/or hardware upon which other software runs.” Virtualization has been in use for many years, but it is best known for enabling cloud computing. In cloud environments, hardware virtualization is used to run many instances of operating systems (OSs) on a single physical server while keeping each instance separate.
+
+operating system virtualization has a similar concept; it provides multiple virtualized OSs above a single actual OS kernel. 
+
+
+
+allows software to bundle their configuration and dependencies and isolate them from your operating system.
+
+- like a VM. but better. More accurately, containers are OS-level virtualization. (Operating system (OS) virtualization provides a separate virtualized view of the OS to each application, thereby keeping each application isolated from all others on the server)
+
 It is an isolated OS process.
 The resulting difference between VMs and containers is that there is hardly any overhead when running containers; they only need to run a single process.
 Uses the same kernel for every container, making it lightweight.
