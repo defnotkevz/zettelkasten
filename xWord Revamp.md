@@ -2,19 +2,16 @@
 
 Should have a clean light mode. dark mode switcher also available. 
 
-- no Home, only Dashboard.
 - can give a small intro on what to do on each page. Like an onboarding.
 
-Clean and Minimal Interface.
+"Welcome to Chat, by xWord."
 
-Welcome to Chat, by xWord.
+Insert prompts from Prompt Library in Chat?
 
-Use Prompt Library in Chat?
+Model Agnostic
 
-Open AI's GPT models aren't good for creative writing. 
-
-Give maximum control over the text output.
-User intuitiveness
+Give maximum control to the user over the text output generated.
+User intuitiveness of the whole app
 Onboarding
 
 ## Use Cases
@@ -23,9 +20,8 @@ What niche of users is xWord targeting? Everyone.
 
 Entrepreneur
 
-- Get thorough and efficient guidelines on creating effective business models
-- Generate insights for your business challenges, competitor dynamics & strategies
-- Accurately capture essential info from legal documents, complex contracts & lengthy reports 
+- **Generate insights for your business challenges, competitor dynamics & strategies**
+- **Accurately capture essential info from legal documents, complex contracts & lengthy reports** 
 
 Researcher
 
@@ -74,3 +70,7 @@ Customer support
 - Generate appropriate replies to customer queries
 - Summarize long product descriptions for better understanding
 - Respond to a multitude of customer queries faster 
+
+
+### All in one tool for the Content Creator in you
+
