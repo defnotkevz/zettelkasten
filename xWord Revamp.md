@@ -1,4 +1,4 @@
-### Clean and Minimal Interface.
+****### Clean and Minimal Interface.
 
 Should have a clean light mode. dark mode switcher also available. 
 
