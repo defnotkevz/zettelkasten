@@ -1,0 +1,5 @@
+- where do all the links point to? go by component.
+- card component - learn more adjust
+- implement data fetching to tables
+- implement searching and filtering
+- where should the form be sent to? -an email?
