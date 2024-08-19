@@ -6,7 +6,7 @@ operating system virtualization has a similar concept; it provides multiple virt
 
 
 
-allows software to bundle their configuration and dependencies and isolate them from your operating system.
+Docker allows software to bundle their configuration and dependencies and isolate them from your operating system.
 
 - like a VM. but better. More accurately, containers are OS-level virtualization. (Operating system (OS) virtualization provides a separate virtualized view of the OS to each application, thereby keeping each application isolated from all others on the server)
 
@@ -64,6 +64,26 @@ CMD ["npm", "run", "dev"]
 the steps of the dockerfile matters because of the caching that works in docker.
 
 docker ps -a //all containers
+
+
+### persistent data storage
+
+volumes, bind mounts, tempfs mounts
+
+volumes are the new version.
+*tempfs is used for something different altogether*
+
+
+## essential docker commands
+
+- docker image ls -> show all images
+- docker ps -> running containers
+- docker ps -a -> show all containers including stopped ones
+- docker stop -> stop a container
+- docker container prune -> removes all stopped containers
+- docker run -p 5000:80 -d -rm nginx -> run in background, opened to a port and deletes after it stops.
+- docker exec -> run a command on an already running container
+- docker exec -it *container* 
 
 ---
 #docker
