@@ -73,6 +73,9 @@ volumes, bind mounts, tempfs mounts
 volumes are the new version.
 *tempfs is used for something different altogether*
 
+volumes - better in prod
+bind mounts - better in dev
+
 
 ## essential docker commands
 
