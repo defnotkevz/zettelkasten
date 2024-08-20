@@ -1,4 +1,8 @@
 
+there's a trpc server and a trpc client. these 2 connect the "backend" and "frontend" parts of the next js application.
+
+
+
 tRPC is a way to build APIs like REST or GraphQL.
 
 tRPC gives typesafety when building APIs. So the frontend and backend is tightly coupled. It also has a request batching feature, while making mutiple requests.
