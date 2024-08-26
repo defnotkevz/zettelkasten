@@ -36,4 +36,5 @@ for the ids returned, this will be executed from the first rendering onwards. th
 	1. can generate this by code with *sitemap.ts* in the app folder
 	![[Pasted image 20240826135920.png]]
 
-5. robots.txt
+5. robots.txt - can add or generate. (place in app folder)
+6. google search console & vercel analytics
