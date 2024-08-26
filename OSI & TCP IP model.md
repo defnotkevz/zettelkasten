@@ -32,3 +32,4 @@ In the data link layer, the packet becomes a Data Frame. This is where a header 
 till Data link, everything is virtual. The physical stuff, that we touch is in the physical layer. and data link layer converts all that logical stuff into ones we can use in the physical layer.
 
 the protocol in data link layer is ethrenet and the src and destination addresses is MAC addresses.
+
