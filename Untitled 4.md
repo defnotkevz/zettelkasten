@@ -24,7 +24,6 @@ home feed customization
 https://www.figma.com/proto/ox0SzsritRZGSqslewGXsn/Spotify-Redesign-(Community)?node-id=298-16461&t=1jLDrEWgaRw98xTD-0&scaling=min-zoom&content-scaling=fixed&page-id=3%3A2&starting-point-node-id=298%3A16461
 
 
-
 what do workspaces do?
 how to improve the navbar?
 
@@ -76,3 +75,8 @@ Upgrade Button
   </span>
 </button>
 
+
+
+asset library
+some important prompts
+recent documents
