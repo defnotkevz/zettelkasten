@@ -80,3 +80,15 @@ Upgrade Button
 asset library
 some important prompts
 recent documents
+
+
+flow of audioGen
+2. select prompt/workflow. then upload your asset.
+3. takes you to the custom input page.
+
+
+flow of textGen - every article editor doc is a project.
+1. select the workflow (create blogpost, youtube script etc.)
+2. takes you to custom page
+3. adds the data to a new document
+
