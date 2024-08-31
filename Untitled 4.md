@@ -76,17 +76,10 @@ Upgrade Button
 </button>
 
 
+content_gen
+- create new button opens a modal of all the prompts available.
+- clicking on those will take you to the custom input page
+- thenn generate takes you to the WriterX document.
 
-
-
-
-
-
-textGen shows recent documents.
-audioGen shows recent recordings.
-
-
-### Flow of ContentGen
-1. Select a workflow.
-2. Uploading the asset.
-3. 
+audio_gen
+- 
