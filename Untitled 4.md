@@ -95,3 +95,6 @@ dashboard needs a revamp
 
 all tools page?
 
+audiogen and contentgen workflows.
+- create new button shows all the prompts in a modal.
+
