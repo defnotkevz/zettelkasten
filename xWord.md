@@ -76,13 +76,6 @@ content_gen
 - clicking on those will take you to the custom input page
 - thenn generate takes you to the WriterX document.
 
-audio_gen
-
-
-
-
-
-
 ---
 
 navbar
