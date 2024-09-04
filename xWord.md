@@ -9,24 +9,6 @@ premium app colors. black, dark grey, off white.
 
 https://www.figma.com/proto/ox0SzsritRZGSqslewGXsn/Spotify-Redesign-(Community)?node-id=298-16461&t=1jLDrEWgaRw98xTD-0&scaling=min-zoom&content-scaling=fixed&page-id=3%3A2&starting-point-node-id=298%3A16461
 
-
-what do workspaces do?
-how to improve the navbar?
-
-text to speech generation
-image generation
-
-audio to text content
-video to text content
-
-prompt library
-
-document writer
-
-chat
-
-prompt library is a good choice.
-
 *backdrop-blur-sm* for modals
 
 
@@ -74,17 +56,21 @@ navbar
 - library section will have asset library, 
 - tools will have all our tools
 - and underneath the tokens. that's clickable to show upgrade and price options.
+- add workspace switcher
 
 dashboard needs a revamp
 
 all tools page?
 
-audiogen and contentgen workflows.
-- create new button shows all the prompts in a modal.
 
-
-**Create Experience Map**
+**Create Experience Map** - from the perspective of a content creator
 
 fonts
 assets
 design system
+
+
+1. clicks on prompt - get prompt details. (jotai atom).
+2. upload video - does the uploading, get the id (jotai atom). and takes you to the custom input. (take from prompt library)
+3. enter inputs and hit the backend route with sufficient data.
+
