@@ -8,5 +8,5 @@ performance.
 
 think about product, design and engineering.
 identify ui problems and bugs
-ship code on a daily basis.
+ship code on a daily basis. (make things better 5% - 10%)
 think about business objectives
