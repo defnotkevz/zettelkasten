@@ -74,3 +74,6 @@ design system
 2. upload video - does the uploading, get the id (jotai atom). and takes you to the custom input. (take from prompt library)
 3. enter inputs and hit the backend route with sufficient data.
 
+
+are we giving analytics?
+
