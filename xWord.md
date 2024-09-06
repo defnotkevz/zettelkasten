@@ -1,8 +1,6 @@
 like a toolbox. a swiss army knife for creators who want to leverage generative ai.
 turn everyone into a content creator and help you manage all of your content workflows.
 
-A unified and streamlined design
-
 key pain points in content creation and repurposing?
 
 premium app colors. black, dark grey, off white.
@@ -43,31 +41,13 @@ Upgrade Button
   </span>
 </button>
 
-
-content_gen
-- create new button opens a modal of all the prompts available.
-- clicking on those will take you to the custom input page
-- thenn generate takes you to the WriterX document.
-
 ---
-
-navbar
-- brand, home, then library section, tools section.
-- library section will have asset library, 
-- tools will have all our tools
-- and underneath the tokens. that's clickable to show upgrade and price options.
-- add workspace switcher
-
-dashboard needs a revamp
-
-all tools page?
-
 
 **Create Experience Map** - from the perspective of a content creator
 
 fonts
 assets
-design system
+design system - components, buttons etc
 
 
 1. clicks on prompt - get prompt details. (jotai atom).
@@ -75,5 +55,41 @@ design system
 3. enter inputs and hit the backend route with sufficient data.
 
 
-are we giving analytics?
 
+# My Vision for xWord
+
+navbar
+- branding
+- profile and workspace switcher. has the pro or free icon.
+- Home
+- Brand Voice
+- Asset Library
+- Content Calendar
+- Analytics
+- Integrated Social Accounts
+- AI Tools
+- Upgrade
+- Plans & Pricing
+
+Global Searchbar
+- ai tools
+- assets
+- projects
+
+Main Dashboard
+- has a quick call to action
+- Main AI Tools
+- Recent Projects
+
+Notifications
+- Latest News
+- When an asset or operation is completed
+
+Editor
+Generative Images from text
+Generative Audio from text
+Turn text into other forms of content
+Turn audio into other forms of content
+Manipulate video content into other types of content
+
+All Tools Page
