@@ -7,10 +7,21 @@ princess of hills
 manimuttathavani - 2:47
 introduction by me.
 
-
-# The Re-intro
-omana penne
+# The Setting
+thatha thaithare
+ponnonom varavayi
+nagumo
+aavani ponnoonjal
+mambulli
+thammil thammil
+onakka munthiri
 anchikonchathedi
+
+
+
+chekele (end)
+
+# bgm
 
 
 
