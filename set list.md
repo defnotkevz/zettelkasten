@@ -8,7 +8,7 @@ manimuttathavani - 2:47
 introduction by me.
 
 # The Setting
-thatha thaithare
+thathaka thaithare
 ponnonom varavayi
 nagumo
 aavani ponnoonjal
@@ -20,7 +20,6 @@ anchikonchathedi
 
 
 chekele (end)
-
 # bgm
 
 
