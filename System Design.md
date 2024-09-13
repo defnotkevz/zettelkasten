@@ -3,19 +3,14 @@ system design exists because of **large scale distributed systems**. they mainly
 - start with defining requirements from the users' perspective. so this is mainly written as a product requirement document.
 - we extract **features** we want to implement from the document.
 - we turn these features into **data definitions**.
+- these definitions can be mapped into **objects**.
+- which are then mapped into the database.
 
-product req. doc turns into features which turns into data definitions into objects and then mapped into the database.
+once you have set the data in the db, you have to make endpoints for how it'll be queried or manipulated.
 
-once you have set the data in the db, you have to make endpoints for how it'll be queried.
-
-none of the services should fail in an outage.
-
-how easy is it to change that solution and go with another one?
+none of the services should fail in an outage. how easy is it to change that solution and go with another one? (how extensible the code is)
 
 load test, edge case test, capacity test
-
-
-
 
 
 - identifying major distinguishable components of the system
