@@ -1,5 +1,23 @@
+system design exists because of **large scale distributed systems**. they mainly use **design patterns** for this.
 
-- start with gathering requirements.
+- start with defining requirements from the users' perspective. so this is mainly written as a product requirement document.
+- we extract **features** we want to implement from the document.
+- we turn these features into **data definitions**.
+
+product req. doc turns into features which turns into data definitions into objects and then mapped into the database.
+
+once you have set the data in the db, you have to make endpoints for how it'll be queried.
+
+none of the services should fail in an outage.
+
+how easy is it to change that solution and go with another one?
+
+load test, edge case test, capacity test
+
+
+
+
+
 - identifying major distinguishable components of the system
 - proceeding to end to end api design
 - optimization

@@ -1,6 +1,5 @@
 
 - t3 stack
-- tRPC
 - custom hooks
 
 
