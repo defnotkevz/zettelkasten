@@ -20,6 +20,5 @@ Marcus Aurelius: Meditations
 
 The Harmony beetween Religion and Philosophy by Ibn Rushd
 
-
 Plato - Complete Works
 
