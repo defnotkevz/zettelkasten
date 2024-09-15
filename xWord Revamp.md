@@ -16,7 +16,6 @@ take inspiration from ai products. the dynamism they have. like a product coming
 
 how can we do user testing and analytics? how many people clicked on this and how many people clicked on that
 
-
 onboarding experience might be important?
 
 https://www.behance.net/gallery/47904037/Chance6
