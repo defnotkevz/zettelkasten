@@ -3,13 +3,6 @@ turn everyone into a content creator and help you manage all of your content wor
 
 key pain points in content creation and repurposing?
 
-premium app colors. black, dark grey, off white.
-
-https://www.figma.com/proto/ox0SzsritRZGSqslewGXsn/Spotify-Redesign-(Community)?node-id=298-16461&t=1jLDrEWgaRw98xTD-0&scaling=min-zoom&content-scaling=fixed&page-id=3%3A2&starting-point-node-id=298%3A16461
-
-*backdrop-blur-sm* for modals
-
-
 Upgrade Button
 
         // Button code
@@ -41,20 +34,11 @@ Upgrade Button
   </span>
 </button>
 
----
-
 **Create Experience Map** - from the perspective of a content creator
 
-fonts
+fonts - that look like and have the usability as of Inter.
 assets
-design system - components, buttons etc
-
-
-1. clicks on prompt - get prompt details. (jotai atom).
-2. upload video - does the uploading, get the id (jotai atom). and takes you to the custom input. (take from prompt library)
-3. enter inputs and hit the backend route with sufficient data.
-
-
+design system - custom components, custom buttons etc
 
 # My Vision for xWord
 
@@ -94,6 +78,10 @@ Manipulate video content into other types of content
 
 All Tools Page
 
+# design changes
 
+- divide the navbar
+- main dashboard redesign
+- renaming all the products
+- the green color looks weird
 
-191a1c
