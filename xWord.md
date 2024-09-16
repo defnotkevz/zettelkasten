@@ -52,18 +52,6 @@ navbar
 - Analytics
 - Integrated Social Accounts
 - AI Tools
-- Upgrade
-- Plans & Pricing
-
-Global Searchbar
-- ai tools
-- assets
-- projects
-
-Main Dashboard
-- has a quick call to action
-- Main AI Tools
-- Recent Projects
 
 Notifications
 - Latest News
@@ -78,12 +66,11 @@ Manipulate video content into other types of content
 
 All Tools Page
 
-# design changes
 
-- divide the navbar
-- main dashboard redesign
-- renaming all the products
-- the green color looks weird
+- dashboard has to be redesigned
+- pro mode change to gradient
+- chatsonic ui, ui inspo, want our signature
+- 
 
 
 ## Use Cases
