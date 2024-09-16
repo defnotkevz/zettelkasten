@@ -12,3 +12,14 @@ emerge
 - Proficiency in current large language model frameworks like LangChain, Retrieval-Augmented Generation (RAG), and LlamaIndex.
 - efficient and reusable UI components within our Design System using shadcn from scratch
 - 
+
+
+🙋‍♀️ **Take extreme ownership of ideas.** This means driving ideas to completion, even when others need convincing. And, yes, there’s a fine line between extreme ownership and being an asshole. Truly cracked engineers can tread it.
+
+👷‍♂️ **Apply themselves to the craft.** Joy comes from the craft itself, not creating shareholder value. Cracked engineers apply themselves to the craft of building products with a quasi-religious fervor, and love what they do.
+
+This means spending a significant amount of time doing individual contributor work.
+
+Do the stuff that arrogant senior people would find ‘boring’. Write tests. Respond to customer support queries. Go weirdly deep into some piece of analysis. Do something badly that’s not your job, so you at least understand it better.
+
+rigorously testing ideas
