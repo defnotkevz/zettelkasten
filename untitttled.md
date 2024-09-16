@@ -8,6 +8,7 @@ Minimal Futuristic UI. Bring the product alive.
 Custom Components.
 
 
-- Main Dashboard has to be redesigned. Sell the Narrative. Designed for Power Users.
+- Sell the Narrative. Designed for Power Users. Bring out the content creator in them.
+- Main Dashboard has to be redesigned. 
 - Experiment the dark mode colors. Black, grey & white.
 - 

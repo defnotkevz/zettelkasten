@@ -1,7 +1,3 @@
-
-- make all the icons into components
-- make audiogen, audio only.
-
 how would YOU design?
 how would you sell a narrrative? to bring out the content creator in you.
 
@@ -13,11 +9,10 @@ buttons should have gradient inside them. like a gas trying to get out
 
 #171717 or #262626
 
-#df91f7
-
 https://cdn.prod.website-files.com/61b97c44341709b3b74787bd/61c074fc716d30e910952831_featured-bg-img_03.jpg
 
 https://joinclyde.com/
+- sidebar animation
 
 
 take components from aceternity ui to make it look futuristic.
@@ -39,3 +34,6 @@ In a standard UI design, colors don't change depending on the elevation of the c
 Contrast is key for Dark mode.
 Use brand colors sparingly.
 Low saturation colors.
+
+
+manrope
