@@ -18,8 +18,6 @@ how can we do user testing and analytics? how many people clicked on this and ho
 
 onboarding experience might be important?
 
-https://www.behance.net/gallery/47904037/Chance6
-
 https://www.darkmodedesign.com/
 
 https://uigradients.com/#Namn

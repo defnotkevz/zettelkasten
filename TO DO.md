@@ -5,7 +5,6 @@
 how would YOU design?
 how would you sell a narrrative? to bring out the content creator in you.
 
-Messina Sans
 
 #F6F6F4 - on hover (off greyish white kinda)
 #999999 - grey text
