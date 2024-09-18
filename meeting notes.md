@@ -1,12 +1,7 @@
-
-need to take more ownership
-
 signup page
 login page
 brand voice feature
 audiogen - analyze
-
-talk with sana
 
 ravi and gwatsin call
 
