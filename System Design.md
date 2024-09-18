@@ -1,4 +1,12 @@
-system design exists because of **large scale distributed systems**. they mainly use **design patterns** for this.
+system design exists because of **large scale distributed systems**. they mainly use **design patterns** for this. 
+
+design patterns is mainly how you organize code.
+
+monolith applications - the db server, web server, everything in one application. in here, everything is just different files.
+
+to scale it out, we turn these into individual services. hence **microservices**.
+
+Architecture is different from design patterns; it focuses on how different systems interact to form a larger system. Eg: what DB are we gonna use? will there be a caching system involved?
 
 - start with defining requirements from the users' perspective. so this is mainly written as a product requirement document.
 - we extract **features** we want to implement from the document.
@@ -44,3 +52,5 @@ load generators?
 
 prewarm infra before match
 automated scaling according to no of servers at a concurrency level, number of requests
+
+
