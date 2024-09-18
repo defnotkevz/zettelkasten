@@ -22,3 +22,9 @@ how can we implement brand voice all over the app?
 
 brand voice - it's your brand's personality.
 your brand name, target audience, website, describe your brand in a couple of sentences, characteristics keywords,  mission statement, what are some things you believe in?, Tone of voice,  
+
+
+what is the collapsibles under the article editor?
+
+![[Pasted image 20240918112947.png]]
+
