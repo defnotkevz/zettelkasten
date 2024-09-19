@@ -6,7 +6,11 @@ monolith applications - the db server, web server, everything in one application
 
 to scale it out, we turn these into individual services. hence **microservices**.
 
-Architecture is different from design patterns; it focuses on how different systems interact to form a larger system. Eg: what DB are we gonna use? will there be a caching system involved?
+Architecture is different from design patterns; it focuses on how different systems interact to form a larger system. Eg: what DB are we gonna use? will there be a caching system involved? 
+
+a common example of an architecture pattern is the 3 tier architecture. Layer 1 is the DB. Layer 2 is the Models and Controllers and Layer 3 is the View.
+
+You can host your frontend on S3. As you build it and generate static files. Or using nginx which lives in an EC2 instance. Backend could live inside the EC2 and the database could be hosted on RDS.
 
 - start with defining requirements from the users' perspective. so this is mainly written as a product requirement document.
 - we extract **features** we want to implement from the document.
