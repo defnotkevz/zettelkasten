@@ -1,7 +1,11 @@
 
-September
+10 more days.
 
 - brand voice implementation at app level
+	- brandkit on video -> logos, 
+- Social Accounts -> dashboard design
+- Chatsonic+ -> ask shiv
+- Content calendar competitor analysis
 
 
 - Clipping
@@ -16,25 +20,23 @@ September
 - generate video chapters
 - storyboard
 - thumbnails
-- download srt
-- vtt exporting
+- download srt 
+- vtt exporting 
 - video to other contents like linkedin posts , articles , blogs like blaze
 - audio translations ai.
 
+showing these many features to a user might be overwhelming to them. 
+so we make every video they upload as a project.
+and these features will be available to them inside each project?
+or we can show some features on the outside and some on the inside?
 
-videogen featureset
+
 chat sonic doc passing and exaa web search - FRONTEND IMPLEMENTATION
 long term short term memory ask shiv
-content calendar
-
-linkendin prmopts scribe
 
 once all this is done ui revamp
 
 
-
-
-reach the checkout process fast. 
 
 
 //*[@id="synopsis-book-button"]
