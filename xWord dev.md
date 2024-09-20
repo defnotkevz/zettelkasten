@@ -3,7 +3,9 @@
 get done with the features by then.
 small pr, small commits, ship stuff everyday.
 
+	Onboarding seems to be a big feature in the competitors, when creating a personal brand
 
+- first time (shwoing modal of what it is when opening for first time) and returning user experience
 a project is a document created or a video uploaded on videogen.
 
 ## Feature 1: VideoGen
@@ -21,9 +23,6 @@ audiogram
 	- Generating Caption (text overlay) - editor
 - video descriptions - could be shown in the individual video dashboard
 - generate YT video chapters - by default?
-
-- generating storyboards
-- alternate thumbnails - generated or created from the video screenshots?
 
 - video to other contents like linkedin posts , articles , blogs like blaze. 24 prompts
 
