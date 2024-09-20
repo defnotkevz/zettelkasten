@@ -6,6 +6,12 @@ artificial intelligence - making intelligent machines or programs.
 
 	if you are merely applying rules to data, you are not doing intelligent work. you should understand the semantics.
 
+Review Literature of existing techniques
+
+Games can simulate real world
+
+![[Pasted image 20240920234937.png]]
+
 
 
 

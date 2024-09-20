@@ -8,6 +8,10 @@ small pr, small commits, ship stuff everyday.
 - first time (shwoing modal of what it is when opening for first time) and returning user experience
 a project is a document created or a video uploaded on videogen.
 
+checkout scripe
+vidyo.ai
+videotapopus clips
+
 ## Feature 1: VideoGen
 
 Create new Project -> Upload Video -> **Do whatever you want.**
