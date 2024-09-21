@@ -12,10 +12,11 @@ Games can simulate real world
 
 ![[Pasted image 20240920234937.png]]
 
+## agent & environment
 
+the environment gives the problem and the agent gives the solution
 
+the agent within an environment will take actions to achieve a particular goal
 
-scripe - creating your personal brand on LinkedIn
+the agent first perceives the environment and then it takes some actions, that updates the environment, the updated environment is observed and perceived by the agent and then again takes actions. (Like reactive programming)
 
-
-we help you create content that aligns with your personal brand on the internet.

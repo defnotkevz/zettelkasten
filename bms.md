@@ -11,4 +11,27 @@ data-id = 'increment button'
 
 if the page html has synopsis book button, send an alert.
 
-think of different scenarios, write scripts for those and deploy parallel 
+think of different scenarios, write scripts for those and deploy parallel
+
+
+
+make an alert for tickets sale
+
+script to click on book now
+
+script to reach till payment screen 
+
+puppetteer docs
+
+rotate ip
+use proxy
+user agent
+
+https://httpbin.org/anything
+https://github.com/cgnicky/ticketbot
+
+will need to select date, 18th.
+
+
+time-pill -> li
+which is above or nearest to 
