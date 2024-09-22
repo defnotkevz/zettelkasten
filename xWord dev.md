@@ -12,6 +12,13 @@ checkout scripe
 vidyo.ai
 videotapopus clips
 
+post preview component needs to be done.
+
+	- need to confirm which endpoint is used for audiogen prompts
+	- documents are giving a 500 error, need to resolve that.
+	- generated images also have to be part of the asset library, that's how it's done right now, integrate both.
+	- 
+
 ## Feature 1: VideoGen
 
 Create new Project -> Upload Video -> **Do whatever you want.**
@@ -57,9 +64,6 @@ your brand name, target audience, website, describe your brand in a couple of se
 
  - [] Social Accounts -> has to be a modal. has to feel like an extra integration
  - [] Content calendar competitor analysis
-
-
-
 
 what are the collapsibles under the article editor?
 
