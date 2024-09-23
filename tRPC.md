@@ -1,6 +1,5 @@
 
-there's a trpc server and a trpc client. these 2 connect the "backend" and "frontend" parts of the next js application.
-
+there's a trpc server and a trpc client. these 2 connect the "backend" and "frontend" parts of a fullstack application.
 
 
 tRPC is a way to build APIs like REST or GraphQL.
