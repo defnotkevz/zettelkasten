@@ -1,5 +1,6 @@
 
-10 more days.
+# 7 more days.
+
 get done with the features by then.
 small pr, small commits, ship stuff everyday.
 
@@ -17,7 +18,7 @@ post preview component needs to be done.
 	- need to confirm which endpoint is used for audiogen prompts
 	- documents are giving a 500 error, need to resolve that.
 	- generated images also have to be part of the asset library, that's how it's done right now, integrate both.
-	- 
+	- database design of documents for isContentGen?
 
 ## Feature 1: VideoGen
 
