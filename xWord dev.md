@@ -1,7 +1,4 @@
 
-# 7 more days.
-
-get done with the features by then.
 small pr, small commits, ship stuff everyday.
 
 	Onboarding seems to be a big feature in the competitors, when creating a personal brand
@@ -55,12 +52,6 @@ your brand name, target audience, website, describe your brand in a couple of se
 ![[Pasted image 20240918112947.png]]
 
 
-## Feature 3: Content Calendar w/ Social Accounts integration
-
- - [] Social Accounts -> has to be a modal. has to feel like an extra integration
- - [] Content calendar competitor analysis
-
-what are the collapsibles under the article editor?
 
 ## Feature 2: chatsonic+
 
@@ -80,3 +71,6 @@ devv.ai
 
 
 /longterm-chatbot
+
+
+personal data memories, need to make ui for that
