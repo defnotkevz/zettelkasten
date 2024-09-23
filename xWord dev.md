@@ -11,7 +11,8 @@ a project is a document created or a video uploaded on videogen.
 
 checkout scripe
 vidyo.ai
-videotapopus clips
+videotap
+opus clips
 
 post preview component needs to be done.
 
@@ -49,7 +50,7 @@ put features inside the editor
 - b-rolls
 - 
 
-## Feature 2: Brand Voice
+## Feature 4: Brand Voice
 
 has to be implemented on app level
 every generation should have an option to toggle brand voice
@@ -68,7 +69,7 @@ your brand name, target audience, website, describe your brand in a couple of se
 
 what are the collapsibles under the article editor?
 
-## Feature 4: chatsonic+
+## Feature 2: chatsonic+
 
 normal mode
 
