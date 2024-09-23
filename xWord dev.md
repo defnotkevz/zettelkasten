@@ -6,7 +6,7 @@ small pr, small commits, ship stuff everyday.
 
 	Onboarding seems to be a big feature in the competitors, when creating a personal brand
 
-- first time (shwoing modal of what it is when opening for first time) and returning user experience
+- first time (showing modal of what it is when opening for first time) and returning user experience
 a project is a document created or a video uploaded on videogen.
 
 checkout scripe
@@ -41,14 +41,7 @@ audiogram
 
 - audio translations ai. -> audiogram? where is this?
 
-- every video uploaded is a project. a quick call to action, every projects. 
-
-
-put features inside the editor
-- captions
-- clipping
-- b-rolls
-- 
+- every video uploaded is a project. a quick call to action, every projects.
 
 ## Feature 4: Brand Voice
 
