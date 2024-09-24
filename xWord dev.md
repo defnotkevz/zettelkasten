@@ -68,18 +68,18 @@ web mode
 ai responses
 sources - (only for web mode)
 
+**only one mode should be active at a time.**
 
 devv.ai
 
-
 /longterm-chatbot
-
 
 personal data memories, need to make ui for that
 
 # post preview component
 
-right now, if the selected prompt has insta, then it will have a post preview.
+generated documents are not retaining data
+have to show document data inside the doc and then the preview component
 
-if a user comes back to the post preview, how will we know whether to render it?
+promptId is optional for a document.
 
