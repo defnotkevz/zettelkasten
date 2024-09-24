@@ -44,7 +44,7 @@ audiogram
 
 ## Feature 4: Brand Voice
 
-has to be implemented on app level
+has to be implemented on app level; there's already a model on prisma, follow that. 
 every generation should have an option to toggle brand voice
 need to include logos, intro and outro audio for video brand voice
 
