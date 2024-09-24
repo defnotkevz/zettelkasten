@@ -76,10 +76,14 @@ devv.ai
 
 personal data memories, need to make ui for that
 
-# post preview component
 
-generated documents are not retaining data
-have to show document data inside the doc and then the preview component
 
-promptId is optional for a document.
 
+
+
+responses {
+	audio_url: ""
+	params {
+		
+		}
+}
