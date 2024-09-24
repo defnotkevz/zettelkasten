@@ -2,22 +2,24 @@
 there's a trpc server and a trpc client. these 2 connect the "backend" and "frontend" parts of a fullstack application.
 
 
-tRPC is a way to build APIs like REST or GraphQL.
+tRPC is a way to build APIs like REST or GraphQL. But with end-to-end typesafety.
 
-tRPC gives typesafety when building APIs. So the frontend and backend is tightly coupled. It also has a request batching feature, while making mutiple requests.
-
+With typesafety, the frontend and backend is tightly coupled.
 Essentially we are using TypeScript to link the backend and the frontend. So we have typesafe communication between them.
 
-tRPC is set upt with routes and procedures.
+**tRPC CLIENT & SERVER**
+- the client is used in the frontend to interact with the trpc server. allows you to make API requests and handle responses using type-safe methods.
+- the tRPC server is where you define the API routes, procedures and logic. It processes the incoming requests and sends back responses.
+
+
+tRPC is set up with routes and procedures.
 routes are the folder names and procedures are the filenames.
 
-```
-tRPC uses React Query under the hood.
-```
 
-```
-API Routes - do we use interfaces with API Routes?
-```
+	tRPC uses React Query under the hood.
+
+	API Routes - do we use interfaces with API Routes?
+
 
 public procedure
 protected procedure - can be only used by users who are "allowed".
@@ -48,8 +50,6 @@ tRPC is an implementation of RPC, designed for TS monorepos.
 - **Validation** - "Does this input data contain the right stuff?"
 
 
-trpc client and server
-- the client is used in the frontend to interact with the trpc server. allows you to make API requests and handle responses using type-safe methods.
-- the tRPC server is where you define the API routes, procedures and logic. It processes the incoming requests and sends back responses.
+
 
 

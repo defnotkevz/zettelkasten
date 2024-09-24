@@ -20,10 +20,12 @@ post preview component needs to be done.
 
 ## Feature 1: VideoGen
 
-Create new Project -> Upload Video -> **Do whatever you want.**
+Create new Project -> Upload Video -> **Do whatever you want.** 
+
+initial screen -> upload video link OR create new, recent projects.
 
 Clipping - need timestamps
- - from the original video, we create smaller videos need layout settings, . How? Prompt? Do we specify timestamps?
+ - from the original video, we create smaller videos need layout settings, How? Prompt? Do we specify timestamps?
  
 audiogram
 - video created from audio upload
@@ -74,3 +76,10 @@ devv.ai
 
 
 personal data memories, need to make ui for that
+
+# post preview component
+
+right now, if the selected prompt has insta, then it will have a post preview.
+
+if a user comes back to the post preview, how will we know whether to render it?
+
