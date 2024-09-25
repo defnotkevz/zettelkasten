@@ -1,0 +1,5 @@
+- less elements in dashboard
+- spacing
+- border radius
+- diff screens, diff measurements (problem)
+- 
