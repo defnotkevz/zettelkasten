@@ -3,26 +3,9 @@ small pr, small commits, ship stuff everyday.
 
 	Onboarding seems to be a big feature in the competitors, when creating a personal brand
 
-- first time (showing modal of what it is when opening for first time) and returning user experience
-a project is a document created or a video uploaded on videogen.
-
-checkout scripe
-vidyo.ai
-videotap
-opus clips
-
-post preview component needs to be done.
-
-	- need to confirm which endpoint is used for audiogen prompts
-	- documents are giving a 500 error, need to resolve that.
-	- generated images also have to be part of the asset library, that's how it's done right now, integrate both.
-	- database design of documents for isContentGen?
+projects and asset library could be different options on the navbar
 
 ## Feature 1: VideoGen
-
-Create new Project -> Upload Video -> **Do whatever you want.** 
-
-initial screen -> upload video link OR create new, recent projects.
 
 Clipping - need timestamps
  - from the original video, we create smaller videos need layout settings, How? Prompt? Do we specify timestamps?
@@ -70,20 +53,4 @@ sources - (only for web mode)
 
 **only one mode should be active at a time.**
 
-devv.ai
-
-/longterm-chatbot
-
 personal data memories, need to make ui for that
-
-
-
-
-
-
-responses {
-	audio_url: ""
-	params {
-		
-		}
-}
