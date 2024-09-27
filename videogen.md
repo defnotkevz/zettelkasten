@@ -2,7 +2,7 @@
 input -> can be any form photosonic, asst library
 get the transcript
 
-screen studio for demos
+**screen studio** for demos
 
 brolls, audiogram, clipping (shorts) - MVP features
 
