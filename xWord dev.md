@@ -1,9 +1,8 @@
 
-small pr, small commits, ship stuff everyday.
+mark stuff that ready for development.
 
-	Onboarding seems to be a big feature in the competitors, when creating a personal brand
 
-projects and asset library could be different options on the navbar
+
 
 ## Feature 1: VideoGen
 
