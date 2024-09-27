@@ -15,4 +15,9 @@ what is an origin? network protocol + hostname + port
 
 four ideas
 1. each origin has client side resources (cookies, )
-2. 
+
+
+
+user.name=kevin-work
+user.email=kevin@m0.ventures
+
