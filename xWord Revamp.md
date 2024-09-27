@@ -31,6 +31,3 @@ https://www.thehumbletransistor.com/
 https://dribbble.com/shots/21539927-Cloud-Storage-SaaS-Dashboard-for-Web
 
 https://startup-template-sage.vercel.app/
-
-
-https://dribbble.com/shots/24486218-LLM-generate-a-response chat ui inspo
