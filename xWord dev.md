@@ -24,6 +24,12 @@ audiogram
 
 - every video uploaded is a project. a quick call to action, every projects.
 
+check indra's excalidraw doc
+mux assets
+mux encoding
+pexels
+
+
 ## Feature 4: Brand Voice
 
 has to be implemented on app level; there's already a model on prisma, follow that. 

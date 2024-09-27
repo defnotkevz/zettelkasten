@@ -87,3 +87,8 @@ ctrl + F, ctrl + B. forward & backward one char
 
 
 zip, unzip
+
+
+uname
+mount
+ifconfig
