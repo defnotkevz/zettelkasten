@@ -3,6 +3,11 @@ audiogen, contentgen, videogen -> the three horsemen of xWord
 
 ## Feature 1: VideoGen
 
+1. we get the input video. can be from anywhere: asset library or upload or youtube?
+2. get the transcript
+
+
+
 Clipping - need timestamps
  - from the original video, we create smaller videos need layout settings, How? Prompt? Do we specify timestamps?
  
@@ -21,31 +26,20 @@ audiogram
 
 - every video uploaded is a project. a quick call to action, every projects.
 
-check indra's excalidraw doc
-mux assets
-mux encoding
-pexels
-
-input -> can be any form photosonic, asst library
-get the transcript
-
-```screen studio for demos```
-
-brolls, audiogram, clipping (shorts) - MVP features
-
 baaki sab prompts -> pass the transcriptions
 
-video is not suitable for transmission or transfer or ux -> encoding (aac, ldac, sbsc) how youtube decreases resolution of the video on the fly
-MUX ENCODING
+video is not suitable for transmission or transfer or ux -> encoding (aac, ldac, sbsc) how youtube decreases resolution of the video on the fly 
 
 this is like an optimized qualities that can change quality on the fly, you can use it on your streaming services
-
-online brolls (pexels), video db
 
 extract the audio before the video is cut.
 
 1 joined to 3 joined to 2.
 
+**Recent Projects will have the latest 'n' number of videos. everything else will be shown in the "Projects Page"**
+
+### video gen from user perspective
+1. upload a video
 ## Feature 4: Brand Voice
 
 has to be implemented on app level; there's already a model on prisma, follow that. 

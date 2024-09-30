@@ -4,7 +4,7 @@ Virtualization as “the simulation of the software and/or hardware upon which o
 
 operating system virtualization has a similar concept; it provides multiple virtualized OSs above a single actual OS kernel. 
 
-
+like VMs virtualize even the hardware (using a hypervisor?), container only virtualize from the OS onwards.
 
 Docker allows software to bundle their configuration and dependencies and isolate them from your operating system.
 
@@ -76,6 +76,7 @@ volumes are the new version.
 volumes - better in prod
 bind mounts - better in dev
 
+docker manages the lifecycle of the containers
 
 ## essential docker commands
 
