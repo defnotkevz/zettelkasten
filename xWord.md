@@ -64,13 +64,7 @@ Turn text into other forms of content
 Turn audio into other forms of content
 Manipulate video content into other types of content
 
-All Tools Page
-
-
-- dashboard has to be redesigned
 - pro mode change to gradient
-- chatsonic ui, ui inspo, want our signature
-- 
 
 
 ## Use Cases

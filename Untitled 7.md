@@ -7,7 +7,7 @@ app settings?
 
 ux for videoverse
 
-chatsonic
+chatsonic - talk to gwatsin
 
 dropdown for category & publish date when web mode is on.
 
@@ -15,9 +15,7 @@ dropdown for category & publish date when web mode is on.
 
 account integrations - ayrshare, 
 
-give him options and filters
-
-
+give him options and filter
 
 
 long term, session and short term

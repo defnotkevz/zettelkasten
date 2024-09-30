@@ -1,8 +1,5 @@
 
-mark stuff that ready for development.
-
-
-
+audiogen, contentgen, videogen -> the three horsemen of xWord
 
 ## Feature 1: VideoGen
 
@@ -29,6 +26,25 @@ mux assets
 mux encoding
 pexels
 
+input -> can be any form photosonic, asst library
+get the transcript
+
+```screen studio for demos```
+
+brolls, audiogram, clipping (shorts) - MVP features
+
+baaki sab prompts -> pass the transcriptions
+
+video is not suitable for transmission or transfer or ux -> encoding (aac, ldac, sbsc) how youtube decreases resolution of the video on the fly
+MUX ENCODING
+
+this is like an optimized qualities that can change quality on the fly, you can use it on your streaming services
+
+online brolls (pexels), video db
+
+extract the audio before the video is cut.
+
+1 joined to 3 joined to 2.
 
 ## Feature 4: Brand Voice
 
@@ -42,20 +58,3 @@ your brand name, target audience, website, describe your brand in a couple of se
 ![[Pasted image 20240918112947.png]]
 
 
-
-## Feature 2: chatsonic+
-
-normal mode
-
-document mode
-- when activated, the upload button is activated, only from asset library. max 5 files. 
-
-web mode
-- deactivates all modes. 
-
-ai responses
-sources - (only for web mode)
-
-**only one mode should be active at a time.**
-
-personal data memories, need to make ui for that
