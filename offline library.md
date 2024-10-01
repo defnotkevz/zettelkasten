@@ -1,5 +1,4 @@
 
-
 dwl-music "URL" -> make a command like this. takes the URL passes onto 
 
 yt-dlp -x --audio-format flac "URL" -> downloads as flac
