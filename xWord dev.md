@@ -52,3 +52,9 @@ your brand name, target audience, website, describe your brand in a couple of se
 ![[Pasted image 20240918112947.png]]
 
 
+
+## changes
+
+- [ ] in asset library, when an asset type is chosen, the input field type should reflext those.
+- [ ] put recent generations into asset library
+- [ ] 
