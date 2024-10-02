@@ -14,3 +14,7 @@ perplexity.ai
 
 
 what is your narrative? every design choice serves to complement your narrative.
+
+how to make your designs more accessible? start from small steps
+maintainability
+building genericly for reusability
