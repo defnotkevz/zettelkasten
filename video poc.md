@@ -12,7 +12,8 @@ so how do the workflows look like?
 audiogram - audio file is the input, upload and get the url from s3, 
 
 
-upload the video, get the transcription, 
+1. get video as input. (can be upload or youtubeURL or from assets)
+2. get the transcription
 
 till here it's the same for brolls and shorts
 
