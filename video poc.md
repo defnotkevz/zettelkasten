@@ -23,5 +23,8 @@ for clipping, send the video to the ai to generate viral clips.
 3. how to put the transcript inside the rendley component
 4. are clips auto generated or manual?
 5. test out subtitles
+6. how to review, ask about git readme, git branches
+7. audiogram
 
 check out shadcn sidebar-01
+

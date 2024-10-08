@@ -1,73 +1,25 @@
 like a toolbox. a swiss army knife for creators who want to leverage generative ai.
 turn everyone into a content creator and help you manage all of your content workflows.
 
-key pain points in content creation and repurposing?
-
-Upgrade Button
-
-        // Button code
-        <button className="inline-flex h-12 animate-shimmer items-center justify-center rounded-md border border-slate-800 bg-[linear-gradient(110deg,#000103,45%,#1e2631,55%,#000103)] bg-[length:200%_100%] px-6 font-medium text-slate-400 transition-colors focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50">
-          Shimmer
-        </button>
-  
-        // tailwind.config.js code
-        {
-          "animation": {
-            shimmer: "shimmer 2s linear infinite"
-          },
-          "keyframes": {
-            shimmer: {
-              from: {
-                "backgroundPosition": "0 0"
-              },
-              to: {
-                "backgroundPosition": "-200% 0"
-              }
-            }
-          }
-        }
-
-<button className="relative inline-flex h-12 overflow-hidden rounded-full p-[1px] focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50">
-  <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#E2CBFF_0%,#393BB2_50%,#E2CBFF_100%)]" />
-  <span className="inline-flex h-full w-full cursor-pointer items-center justify-center rounded-full bg-slate-950 px-3 py-1 text-sm font-medium text-white backdrop-blur-3xl">
-    Border Magic
-  </span>
-</button>
-
-**Create Experience Map** - from the perspective of a content creator
-
-fonts - that look like and have the usability as of Inter.
-assets
-design system - custom components, custom buttons etc
-
 # My Vision for xWord
 
-navbar
-- branding
-- profile and workspace switcher. has the pro or free icon.
-- Home
-- Brand Voice
-- Asset Library
-- Content Calendar
-- Analytics
-- Integrated Social Accounts
-- AI Tools
+## Feature 4: Brand Voice
 
-Notifications
-- Latest News
-- When an asset or operation is completed
+has to be implemented on app level; there's already a model on prisma, follow that. 
+every generation should have an option to toggle brand voice
+need to include logos, intro and outro audio for video brand voice
 
-Editor
-Generative Images from text
-Generative Audio from text
-Turn text into other forms of content
-Turn audio into other forms of content
-Manipulate video content into other types of content
+brand voice - it's your brand's personality.
+your brand name, target audience, website, describe your brand in a couple of sentences, characteristics keywords,  mission statement, what are some things you believe in?, Tone of voice,
 
-- pro mode change to gradient
+![[Pasted image 20240918112947.png]]
 
 
-## Use Cases
+
+
+
+
+## Use Cases (check if any edge cases for features or feature enhancements)
 
 What niche of users is xWord targeting? Everyone.
 
@@ -123,3 +75,42 @@ Customer support
 - Generate appropriate replies to customer queries
 - Summarize long product descriptions for better understanding
 - Respond to a multitude of customer queries faster 
+
+## extra
+
+main dashboard create option. with these many tools. what does it do?
+
+first time user experience a.k.a onboarding AND return user experience
+
+onboarding process decides who you are and accordingly we can suggest them options and what is prominent to them can be shown more.
+
+power users and users who are just exploring.
+
+more users will be power users.
+- recently used files
+- get back to their workflow instantly
+
+
+change ui colors when toggling to pro mode. like how the HUD changes for a car on sport mode.
+
+take inspiration from ai products. the dynamism they have. like a product coming alive. the use of gradients. micro interactions. fluidity. 
+
+how can we do user testing and analytics? how many people clicked on this and how many people clicked on that
+
+onboarding experience might be important?
+
+https://www.darkmodedesign.com/
+
+https://uigradients.com/#Namn
+
+https://www.eggradients.com/category/dark-gradient
+
+https://www.thehumbletransistor.com/
+
+https://dribbble.com/shots/21539927-Cloud-Storage-SaaS-Dashboard-for-Web
+
+https://startup-template-sage.vercel.app/
+
+
+
+## 
