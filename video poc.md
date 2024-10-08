@@ -14,17 +14,15 @@ audiogram
 captions
 
 
-till here it's the same for brolls and shorts
-
 for clipping, send the video to the ai to generate viral clips.
 
-1. when do we use mux assets?
-2. s3 mp4 file is showing invalid clip type
+1. when do we use mux assets? - only for encoding
+2. try turning off the public access
 3. how to put the transcript inside the rendley component
 4. are clips auto generated or manual?
-5. test out subtitles
 6. how to review, ask about git readme, git branches
 7. audiogram
+8. how should i prepare to interview someone
 
-check out shadcn sidebar-01
+
 
