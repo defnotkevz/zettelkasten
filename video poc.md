@@ -17,12 +17,16 @@ captions
 for clipping, send the video to the ai to generate viral clips.
 
 1. when do we use mux assets? - only for encoding
-2. try turning off the public access
-3. how to put the transcript inside the rendley component
-4. are clips auto generated or manual?
-6. how to review, ask about git readme, git branches
-7. audiogram
-8. how should i prepare to interview someone
+2. needs a public URL - rendley video editor
+\
+how does the s3 upload workflow go?
 
+captions - https://docs.rendley.com/subtitles-clip
 
+5. how should i prepare to interview someone, ask if he can come?
 
+type checking
+code modularity and functional
+logic - time complexity
+db instances - connections not closing 
+error handling - try catch IMP

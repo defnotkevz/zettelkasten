@@ -1,7 +1,7 @@
 
 - understand their materials solidly
 - make them feel comfortable
-- start by introducing yourself
+- start by introducing yourself and the company, what you are looking for
 - ice breaker questions
 - take notes of their responses
 - should be able to make a final report
@@ -25,3 +25,13 @@ The interviewer then asked, "Why do you say you're a 7 and what question would y
 _Optional_ "Can you tell me how to say your name correctly?" opener
 
 review their github
+
+ask more of the non-obvious stuff in the language, design patterns
+
+We ask only about things and skills that candidate would use in he was hired.
+
+
+- quickly set up a react project on vite & tailwind
+- call an api, show the data.
+- Give them some badly written code and have them explain what they would do differently.
+- next js, some design choices in next js
