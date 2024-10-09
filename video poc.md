@@ -13,7 +13,6 @@ shorts
 audiogram
 captions
 
-
 for clipping, send the video to the ai to generate viral clips.
 
 1. when do we use mux assets? - only for encoding
@@ -30,3 +29,4 @@ code modularity and functional
 logic - time complexity
 db instances - connections not closing 
 error handling - try catch IMP
+

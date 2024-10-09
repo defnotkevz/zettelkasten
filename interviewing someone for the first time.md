@@ -16,7 +16,6 @@ The interviewer then asked, "Why do you say you're a 7 and what question would y
 
 **some questions about the product and design and stuff.**
 
-
 - what technical qualities are we looking for?
 - what knowledge? other than just coding?
 - an eye for design?
@@ -30,8 +29,20 @@ ask more of the non-obvious stuff in the language, design patterns
 
 We ask only about things and skills that candidate would use in he was hired.
 
-
 - quickly set up a react project on vite & tailwind
 - call an api, show the data.
 - Give them some badly written code and have them explain what they would do differently.
 - next js, some design choices in next js
+- state management
+
+LLMs knowledge also.
+
+close to the tech stack
+IQ - analytical and reduction skills
+career goals and aspirations, are you looking for a comfort zone
+
+bring their background
+how was the process in their old company?
+skin in the game
+
+smart, get things done.
