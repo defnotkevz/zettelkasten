@@ -1,12 +1,9 @@
-
 - understand their materials solidly
 - make them feel comfortable
 - start by introducing yourself and the company, what you are looking for
 - ice breaker questions
 - take notes of their responses
 - should be able to make a final report
-
-
 
 **some questions about the product and design and stuff.**
 
@@ -25,8 +22,6 @@ close to the tech stack
 - Give them some badly written code and have them explain what they would do differently.
 - next js, some design choices in next js
 - state management
-
-LLMs knowledge also.
 
 IQ - analytical and reduction skills
 
