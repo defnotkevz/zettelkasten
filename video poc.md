@@ -45,3 +45,6 @@ how to create a video with these elements? - streampot has.
 2. profile image + audio + custom image + content title + animated waveform
 3. animated captions?
 4. animate the waveform according to the audio - wave surfer.js
+
+
+## clean one git branch
