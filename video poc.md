@@ -1,16 +1,12 @@
 
-brolls
-shorts
-audiogram
-captions
+brolls - currently working
+shorts - need api endpoint
+audiogram - currently working
+captions - https://docs.rendley.com/subtitles-clip
 
 1. when do we use mux assets? - only for encoding
 2. needs a public URL - rendley video editor
 \
-how does the s3 upload workflow go? - check dialog flow
-
-captions - https://docs.rendley.com/subtitles-clip
-
 type checking
 code modularity and functional
 logic - time complexity
@@ -39,16 +35,10 @@ https://dev.to/jacksbridger/build-your-own-ai-video-editor-with-nodejs-assemblya
 
 ## audiogram for podcasts, short casts
 
-how to create a video with these elements? - streampot has.
+need to stylize the audiogram
 
-1. get the audio upload
-2. profile image + audio + custom image + content title + animated waveform
-3. animated captions?
-4. animate the waveform according to the audio - wave surfer.js
+ask the user for dimensions. Instagram square, Youtube or reels
 
+## cleaning up
 
-## clean one git branch
-
-
-
-
+we need to write smoke tests (e2e) for every feature flow. so if some bugs in another feature causes an issue in another feature, we can be notified.
