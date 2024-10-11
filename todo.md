@@ -1,0 +1,3 @@
+- go through the figma file
+- finish watch now
+- video quality
