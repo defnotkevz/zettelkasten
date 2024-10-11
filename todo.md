@@ -1,6 +1,6 @@
 - go through the figma file
-- finish watch now
-- video quality
+- audiogram steps in between
+- video quality for brolls
 - when uploading to mux, are we losing the features
 
 

@@ -11,7 +11,6 @@ any events or hooks -> needs client components
 you can manage servers, big third party libraries on the server.
 
 
-
 how can a server component be a sc when it's wrapped by a client component?
 - "children"
 - it looks at your imports more than the rendering part
@@ -29,4 +28,7 @@ dynamic imports make sure that client components run only in the client. like in
 
 the prerendered html may show bad data before it's hydrated. this is a hydration error.
 
-if you're using incorrect html, like a *div* inside a *p* tag, this will also gives you a hydration error. 
+if you're using incorrect html, like a *div* inside a *p* tag, this will also gives you a hydration error. \
+
+do all your data fetching in server components, data mutation in your server actions, and for route handlers put your webhooks in there.
+
