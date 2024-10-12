@@ -43,3 +43,7 @@ add a light black overaly, add text and waveform.
 ## cleaning up
 
 we need to write smoke tests (e2e) for every feature flow. so if some bugs in another feature causes an issue in another feature, we can be notified.
+
+
+
+cannot add brolls to a youtube video. not available in jupitrr too.
