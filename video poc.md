@@ -21,25 +21,14 @@ clips are automatically generated.
 
 https://dev.to/jacksbridger/build-your-own-ai-video-editor-with-nodejs-assemblyai-streampot-hosted-25h9
 
-## adding brolls
-
-1. we get the selected text. 
-2. get the timestamps for the selected text. and get **duration** from it.
-3. extract audio from the main video
-4. trim the video from *0 - start of selected text*
-5. trim the video from *end of selected text - end of video*
-6. the selected text, gets reduced to a single keyword to search on Pexels
-7. get a stock video from Pexels and trim it to **duration**
-8. concatenate all three parts
-9. add the audio on top.
+komika axis - beasty caption
 
 ## audiogram for podcasts, short casts
 
 need to stylize the audiogram
 
-ask the user for dimensions. Instagram square, Youtube or reels
+ask the user for dimensions. and show designs.
 
-add a light black overaly, add text and waveform.
 ## cleaning up
 
 we need to write smoke tests (e2e) for every feature flow. so if some bugs in another feature causes an issue in another feature, we can be notified.
