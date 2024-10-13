@@ -21,6 +21,7 @@ clips are automatically generated.
 
 https://dev.to/jacksbridger/build-your-own-ai-video-editor-with-nodejs-assemblyai-streampot-hosted-25h9
 
+fonts we want to set up
 komika axis - beasty caption
 poetsen one
 circular std
