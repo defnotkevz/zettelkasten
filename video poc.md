@@ -6,7 +6,7 @@ captions - https://docs.rendley.com/subtitles-clip
 
 1. when do we use mux assets? - only for encoding
 2. needs a public URL - rendley video editor
-\
+
 type checking
 code modularity and functional
 logic - time complexity
