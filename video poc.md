@@ -22,6 +22,15 @@ clips are automatically generated.
 https://dev.to/jacksbridger/build-your-own-ai-video-editor-with-nodejs-assemblyai-streampot-hosted-25h9
 
 komika axis - beasty caption
+poetsen one
+circular std
+Unbounded
+Lexend
+Quicksand
+Playfair Display
+Dancing Script
+Solitreo
+Noto Sans
 
 ## audiogram for podcasts, short casts
 
