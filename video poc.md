@@ -19,6 +19,17 @@ error handling - try catch IMP
 
 https://dev.to/jacksbridger/build-your-own-ai-video-editor-with-nodejs-assemblyai-streampot-hosted-25h9
 
+generate-viral-clips
+- subtitles as string "named as transcript"
+- words
+- response -> 
+
+generate yt chapters
+- subtitles as string "named as transcript"
+- response -> chapters [{```json
+"ChapterName": "Introduction and Greetings",
+      "start_time":}]```
+
 ## cleaning up
 
 we need to write smoke tests (e2e) for every feature flow. so if some bugs in another feature causes an issue in another feature, we can be notified.
