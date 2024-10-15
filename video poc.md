@@ -66,9 +66,7 @@ Noto Sans
 
 - styling of captions
 - viral clips
-- pexel video search 'keyword'
+- pexel video
+- search 'keyword'
 - broll logic
-
-
-home screen parallax
-marquee
+- voice over
