@@ -48,10 +48,6 @@ we need to write smoke tests (e2e) for every feature flow. so if some bugs in an
 **look into how you can create your own user interface of rendley**
 
 
-then implement plan B of brolls.
-talk to indra about mux encoding.
-how can we incorporate voice overs.
-
 cannot open youtube videos in the editor.
 
 
@@ -66,3 +62,13 @@ Playfair Display
 Dancing Script
 Solitreo
 Noto Sans
+
+
+- styling of captions
+- viral clips
+- pexel video search 'keyword'
+- broll logic
+
+
+home screen parallax
+marquee
