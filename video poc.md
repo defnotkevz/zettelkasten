@@ -24,12 +24,6 @@ generate-viral-clips
 - words
 - response -> 
 
-generate yt chapters
-- subtitles as string "named as transcript"
-- response -> chapters [{```json
-"ChapterName": "Introduction and Greetings",
-      "start_time":}]```
-
 ## cleaning up
 
 we need to write smoke tests (e2e) for every feature flow. so if some bugs in another feature causes an issue in another feature, we can be notified.
@@ -67,6 +61,7 @@ Noto Sans
 - styling of captions
 - viral clips
 - pexel video
-- search 'keyword'
+- [x] search 'keyword'
 - broll logic
+	- add stock photos or stock videos
 - voice over
