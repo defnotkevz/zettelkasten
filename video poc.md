@@ -60,8 +60,8 @@ Noto Sans
 
 - styling of captions
 - viral clips
-- pexel video
 - [x] search 'keyword'
 - broll logic
 	- add stock photos or stock videos
+	- not getting the streampot asset due to cors
 - voice over
