@@ -19,11 +19,6 @@ error handling - try catch IMP
 
 https://dev.to/jacksbridger/build-your-own-ai-video-editor-with-nodejs-assemblyai-streampot-hosted-25h9
 
-generate-viral-clips
-- subtitles as string "named as transcript"
-- words
-- response -> 
-
 ## cleaning up
 
 we need to write smoke tests (e2e) for every feature flow. so if some bugs in another feature causes an issue in another feature, we can be notified.
@@ -41,21 +36,7 @@ we need to write smoke tests (e2e) for every feature flow. so if some bugs in an
 
 **look into how you can create your own user interface of rendley**
 
-
 cannot open youtube videos in the editor.
-
-
-fonts we want to set up
-komika axis - beasty caption
-poetsen one
-circular std
-Unbounded
-Lexend
-Quicksand
-Playfair Display
-Dancing Script
-Solitreo
-Noto Sans
 
 
 - styling of captions
@@ -65,3 +46,18 @@ Noto Sans
 	- add stock photos or stock videos
 	- not getting the streampot asset due to cors
 - voice over
+
+
+"Poetsen One",
+
+"Unbounded",
+
+"Lexend",
+
+"Quicksand",
+
+"Playfair Display",
+
+"Sixtyfour Convergence",
+
+"Honk",
