@@ -1,8 +1,4 @@
 
-brolls - currently working
-shorts - need api endpoint
-captions - https://docs.rendley.com/subtitles-clip
-
 1. when do we use mux assets? - only for encoding
 2. needs a public URL - rendley video editor
 
@@ -25,22 +21,12 @@ we need to write smoke tests (e2e) for every feature flow. so if some bugs in an
 
 # Opus 
 
-- generate clips
-	- captions
-	- layout
-- editor
-	- b-rolls
-	- voice over
-
-**adding a pexel video on top of the video editor layer. - this is better because removing brolls will be hard. no undo button.**
-
 **look into how you can create your own user interface of rendley**
 
 cannot open youtube videos in the editor.
 
-- voice over
+- voice over - generate/generate-audio. after merging audiosonic anurag
 - viral clips
-- [x] search 'keyword'
 - broll logic
 	- add stock photos or stock videos
 	- not getting the streampot asset due to cors
