@@ -38,26 +38,9 @@ we need to write smoke tests (e2e) for every feature flow. so if some bugs in an
 
 cannot open youtube videos in the editor.
 
-
-- styling of captions
+- voice over
 - viral clips
 - [x] search 'keyword'
 - broll logic
 	- add stock photos or stock videos
 	- not getting the streampot asset due to cors
-- voice over
-
-
-"Poetsen One",
-
-"Unbounded",
-
-"Lexend",
-
-"Quicksand",
-
-"Playfair Display",
-
-"Sixtyfour Convergence",
-
-"Honk",
