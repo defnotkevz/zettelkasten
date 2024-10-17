@@ -30,3 +30,9 @@ cannot open youtube videos in the editor.
 - broll logic
 	- add stock photos or stock videos
 	- not getting the streampot asset due to cors
+
+
+merlin ai act like a researcher, act like somebody
+
+
+how do i save the state of the saved project?
