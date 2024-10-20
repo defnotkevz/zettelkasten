@@ -1,7 +1,6 @@
 how to interview people for product based companies
 building culture
 
-
 We ask only about things and skills that candidate would use in he was hired, close to the tech stack. or problems that he would potentially encounter. problems are more open ended. need to define and find the solution.
 
 - frontend ui and logic skills
@@ -17,7 +16,6 @@ We ask only about things and skills that candidate would use in he was hired, cl
 	- open a real world website and critique design from a tech and ux perspective
 - coding proficiency
 - skin in the game
-	- why join a startup?
 	- someone who should keep learning new tech. and stay updated.
 	- Show me a piece of technology you’ve recently learned (a library, framework, or tool). Walk me through how you used it in a project, explaining the challenges and solutions you found along the way.
 - smart, get things done, take initiatives.
@@ -26,23 +24,10 @@ We ask only about things and skills that candidate would use in he was hired, cl
 
 deployment questions.
 
-
-js, python
-next js, django -> compare them both
-devops, cv, nlp, 
-
 Server Side Rendering, Authentication, deployment, payment integration
 
 explain project 1
 explain project 2
-personality paws - algo, state mgmt, translation, generating certidicate
-
-state management
-
-chatbot design
-Chatbots takes user details in conversational manner, chats used to extract details and then calculating patended
-Conceivable Scores from data. Also generate customized weekly menu, recipes and shopping list for patient.
-
 
 
 ### **Dream Architect**
@@ -391,27 +376,3 @@ Understanding these concepts and techniques is crucial for creating modern, resp
 
 
 
-# projects
-
-why use a cnn? -> cnn is better with image recognition
-architecture of the cnn model
-How did you choose the depth and width of your CNN (e.g., number of layers, number of filters per layer)?
-Which types of layers did you include in your CNN? Why?
-
-What kind of preprocessing did you apply to your input data before feeding it into the CNN?
-
-How did you optimize your CNN model (e.g., optimizer choice, learning rate schedule)?
-
-
-what were the features? which algo gave the best result? why?
-
-
-What preprocessing steps did you apply to the handwritten prescriptions before feeding them into your ML algorithms?
-
-How did you handle variations in handwriting styles and the often messy nature of doctors' handwriting?
-
-Can you compare and contrast the data preprocessing steps for audio data versus image data?
-
-Did you incorporate any medical domain knowledge into your system? For example, did you use a database of known medicine names?
-
-Levenshtein Can you explain how you used Levenshtein distance and Jaro-Winkler distance to improve accuracy? Why did you choose these specific similarity measures?
