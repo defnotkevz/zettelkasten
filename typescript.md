@@ -16,3 +16,11 @@ difference between *type* and *interface*?
 interface is only for object shapes. 
 
 you can make object properties optional, readonly
+
+password: string | number
+
+literal type -> the value can be only that particular literal | string
+
+tuple -> array with a fixed number of elements -> [string, string, string]
+
+enums -> a set of named constants
