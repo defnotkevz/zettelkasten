@@ -8,4 +8,11 @@ return value of a function (can use void if no return value)
 arrays -> what type would be each value?
 multi dimensional arrays can also be typed.
 
-objects too
+objects too - using interfaces for the object itself or for each value
+
+
+difference between *type* and *interface*?
+
+interface is only for object shapes. 
+
+you can make object properties optional, readonly
