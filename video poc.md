@@ -32,12 +32,11 @@ cannot open youtube videos in the editor.
 	- not getting the streampot asset due to cors
 
 
-merlin ai act like a researcher, act like somebody
-
-
 how do i save the state of the saved project?
-
-![[Pasted image 20241021185451.png]]
 
 
 redirecting fetch to s3
+
+
+generate video, generate image.
+pick from stock. -> add keyword to search
